@@ -1,5 +1,5 @@
 ### Hi there, welcome to my github👋! 
-### I love communicating with people. Feel free to email me if you have any questions :)
+## I love communicating with people. Feel free to email me if you have any questions :)
 
 <!--
 **JChen255/JChen255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
