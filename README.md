@@ -1,6 +1,10 @@
 ## Hi there, welcome to my github👋! 
-###### *I love communicating with people. Feel free to email me if you have any questions :)*
+###### *Keep learning. Always be curious :)*
 
+- 🔭 I’m currently working on full-stack development and iOS development.
+- 📫 How to reach me: cjialin255@gmail.com
+- 😄 Pronouns: she/her
+  
 <!--
 **JChen255/JChen255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
