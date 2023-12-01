@@ -1,7 +1,14 @@
 ## Hi there, welcome to my github👋! 
 ###### *Keep learning. Always be curious :)*
 
-- 🔭 I’m currently working on full-stack development and iOS development.
+- 🔭 I’m currently working on mobile development and full-stack development.
+- 💻 Programming Languages: Swift, JavaScript, TypeScript, Python
+- 🔧 Technical Skills:
+  (1) Native iOS development: SwiftUI, UIKit, Foundation, XCTest, XCUITest, Combine, Core Data, Core Animation, Core Graphics, Core Location
+  (2) React Native: React Native, React, Context API, Redux, Node.js, Express, Django, Bootstrap, Expo, Axios, React Navigation
+  (3) Fullstack: React, Angular, Express, Node.js
+  (4) Databases: Firebase, MongoDB, SQL
+  (5) Tools: Xcode, Visual Studio Vode, Postman, Figma, Git, Jira, Jenkins
 - 📫 How to reach me: cjialin255@gmail.com
 - 😄 Pronouns: she/her
   
